@@ -1,0 +1,15 @@
+chex==0.1.1
+dm-haiku==0.0.6
+dm-tree==0.1.6
+h5py==3.7.0
+jax==0.3.1
+jax-meta==1.0.3
+jaxlib==0.3.0
+jaxopt==0.3.1
+matplotlib==3.5.1
+numpy==1.22.2
+optax==0.1.1
+scikit-learn==1.1.1
+scipy==1.8.0
+simple-parsing==0.0.18
+tqdm==4.63.0

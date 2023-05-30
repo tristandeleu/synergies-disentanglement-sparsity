@@ -1,0 +1,6 @@
+torch==1.13.0
+torchvision==0.14.0
+qpth==0.0.15
+torchopt==0.5.1
+torchnet==0.0.4
+tqdm==4.64.1
